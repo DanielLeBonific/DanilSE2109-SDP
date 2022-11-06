@@ -1,10 +1,9 @@
 
 # 108PSY App
   
-  108PSY - is an MVP-type mobile app for the "Zhas Hackathon" which was held in Kazakhstan. This is just a technical solution for companies, the essence is that it is an application of tasks, where the user creates a task and tracks their performance, as well as was added a method "Ladder" from the request of companies.
+ 
   
-  BY: KALIMATOV AKZHAN
-  
+  BY: YESLYAMGALIEV DANIL
   
   
   
